@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.openai/preview*
+qa/
+
+# Generated high-resolution sources are retained separately; serve WebP.
+public/skyline-estates/redesign/art/*.png

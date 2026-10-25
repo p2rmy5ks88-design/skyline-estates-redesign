@@ -1,0 +1,188 @@
+[
+  {
+    "city": "lagos",
+    "file": "lagos.webp",
+    "bytes": 310972,
+    "sha256": "817a7a5502190a14bd2020352f644d8b1a9d6d3bbee73833a068e5cf155ce29f"
+  },
+  {
+    "city": "abuja",
+    "file": "abuja.webp",
+    "bytes": 353406,
+    "sha256": "bc396323924f2474c4666ed1ae1fbd3d0d5dffac26fc4421d19912625e6f7b07"
+  },
+  {
+    "city": "ph",
+    "file": "ph.webp",
+    "bytes": 470016,
+    "sha256": "bc57f04144971d1c5b0978192b17db38c4bf0428f46b599fb9c80d119571ac50"
+  },
+  {
+    "city": "benin",
+    "file": "benin.webp",
+    "bytes": 347326,
+    "sha256": "d0b7ccee6d91aef78c815f351c98dea868863999c101102fd6d0b122d9cfd3ba"
+  },
+  {
+    "city": "enugu",
+    "file": "enugu.webp",
+    "bytes": 477942,
+    "sha256": "e5a985979b76938cea88b6d2e4b60bbe8c6224fd7b5a9cc5f0dc302508889126"
+  },
+  {
+    "city": "calabar",
+    "file": "calabar.webp",
+    "bytes": 417866,
+    "sha256": "d03cd000d8e10fe66fa494f5bfd6e34162b9c0638526288802e2d96de74a282f"
+  },
+  {
+    "city": "warri",
+    "file": "warri.webp",
+    "bytes": 404990,
+    "sha256": "339cdd8a44baa71bedbf09d1efd9f5068831f64b2a3f6106ae96b6f33d59dc0f"
+  },
+  {
+    "city": "stockholm",
+    "file": "stockholm.webp",
+    "bytes": 276952,
+    "sha256": "ac2539da0354544509f44ea730afb7a8ceb751a8100e2ba97e60f301ab393186"
+  },
+  {
+    "city": "gothenburg",
+    "file": "gothenburg.webp",
+    "bytes": 360952,
+    "sha256": "fe1349b2febbb802e42c1080c53ee43dc9f6292ed9e5b95d7713dcf1881e45ad"
+  },
+  {
+    "city": "malmo",
+    "file": "malmo.webp",
+    "bytes": 314158,
+    "sha256": "46ab9ec660a73486a5254218c8f5a5245fa7d87cc0f4333b947b888a6d10241b"
+  },
+  {
+    "city": "uppsala",
+    "file": "uppsala.webp",
+    "bytes": 429024,
+    "sha256": "0f9cf5dfa21b414b72f66b129f1f80b1ba7a3979907617015401987afc5a21ee"
+  },
+  {
+    "city": "linkoping",
+    "file": "linkoping.webp",
+    "bytes": 372672,
+    "sha256": "61a2e41f68a0c4bd7b643dd63aa198e3604ed10eb6b3a8078900761615e8fdaf"
+  },
+  {
+    "city": "nyc",
+    "file": "nyc.webp",
+    "bytes": 401274,
+    "sha256": "698ed4d8dee4a415190917d0333ff011fd445504ff8ac3abe5679ac13d5324d5"
+  },
+  {
+    "city": "la",
+    "file": "la.webp",
+    "bytes": 450322,
+    "sha256": "225ed7f90e59917c06e111ec45dbf847d339ed281f470fa06bf53445ae63470c"
+  },
+  {
+    "city": "london",
+    "file": "london.webp",
+    "bytes": 274958,
+    "sha256": "4955616c3bba8baa71929b9bac6598462ac3c48c6e732834ccefb1b3d010a2b7"
+  },
+  {
+    "city": "manchester",
+    "file": "manchester.webp",
+    "bytes": 407264,
+    "sha256": "6976335a6506992081a29386d6f377e8985319d10ad1987b5700de09649c4884"
+  },
+  {
+    "city": "paris",
+    "file": "paris.webp",
+    "bytes": 356690,
+    "sha256": "81b8b2edb26491a7e17394a92dd548351bb001b27dd7bfc35be9c2752d799209"
+  },
+  {
+    "city": "berlin",
+    "file": "berlin.webp",
+    "bytes": 364422,
+    "sha256": "9498f37697ec591832d465036e1beeb0c60037eb74ca5924a13f8a556e28d9cd"
+  },
+  {
+    "city": "barcelona",
+    "file": "barcelona.webp",
+    "bytes": 429382,
+    "sha256": "935205efdfff6932fc070d9fb1166b934c08c8760c926feafcea24f135e08720"
+  },
+  {
+    "city": "rome",
+    "file": "rome.webp",
+    "bytes": 426834,
+    "sha256": "40468f1e0b8611b5e50873f87795efcbf1b64d8ef369258b3f872a5f5e8e8f62"
+  },
+  {
+    "city": "tokyo",
+    "file": "tokyo.webp",
+    "bytes": 315826,
+    "sha256": "3d1bdf46907b55945cb5a0d439c622d54985453741b18e05db3876436dd5d769"
+  },
+  {
+    "city": "mumbai",
+    "file": "mumbai.webp",
+    "bytes": 378550,
+    "sha256": "5e4a5523f71ed1650cb288330d8702b0bcc410c0b51aa1a95adedc472ebf4d5a"
+  },
+  {
+    "city": "rio",
+    "file": "rio.webp",
+    "bytes": 364036,
+    "sha256": "c496e629faaf4313077ed7f425fefa5ad1e06404166c7ffeb14416d809146f6c"
+  },
+  {
+    "city": "dubai",
+    "file": "dubai.webp",
+    "bytes": 333118,
+    "sha256": "fbff8c49ec01e7812bf5a38853d478521538b4aa7eccbc95deec5d2000d0bb13"
+  },
+  {
+    "city": "accra",
+    "file": "accra.webp",
+    "bytes": 386566,
+    "sha256": "1187c03af591fc63bfe0cf457fd296903f0d0f1f05e873916fed29a0ad6b08d2"
+  },
+  {
+    "city": "nairobi",
+    "file": "nairobi.webp",
+    "bytes": 367694,
+    "sha256": "1024662703dc7de1791db7a12ccb4af5fb4ebd08db7809e904a3d5d51b2ed3fb"
+  },
+  {
+    "city": "johannesburg",
+    "file": "johannesburg.webp",
+    "bytes": 382896,
+    "sha256": "bb97fe99ba936cf2ad1f494c9f66ddce33ef2fce5b379e6a63be402efe08df8f"
+  },
+  {
+    "city": "capetown",
+    "file": "capetown.webp",
+    "bytes": 435546,
+    "sha256": "cbf0ae1155bfced71debef4f2c1795e3dca1a7124de09e2fdf3b2ecbff123df3"
+  },
+  {
+    "city": "toronto",
+    "file": "toronto.webp",
+    "bytes": 346842,
+    "sha256": "f907605c4cb92ee3fdad1838ea5a7f240bf87055aadf472755d537a7f73f196a"
+  },
+  {
+    "city": "sydney",
+    "file": "sydney.webp",
+    "bytes": 393822,
+    "sha256": "e16cfeb184e30b2c3eb4e457ac92b288ac7269b6c8a20d44dd4625db4b3d5db4"
+  },
+  {
+    "city": "mexico",
+    "file": "mexico.webp",
+    "bytes": 400962,
+    "sha256": "eb8e953626fa0540ead6046e07de05af938ef84af5ba1c03589587ba505fcaf8"
+  }
+]

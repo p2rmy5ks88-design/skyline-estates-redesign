@@ -1,0 +1,9 @@
+{
+  "name": "skyline-estates-redesign",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Standalone visual redesign of Skyline Estates",
+  "scripts": {
+    "check": "node scripts/check.mjs && node scripts/check-models.mjs"
+  }
+}
